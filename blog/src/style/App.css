@@ -1,0 +1,26 @@
+#App {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+#App_header {
+  padding-bottom: 0.5em;
+  border-bottom: 0.3em solid black;
+}
+
+#App_title {
+  font-size: 2.5em;
+  font-weight: 600;
+  margin: 0;
+}
+
+#App_subtitle {
+  font-size: 2em;
+  font-weight: 400;
+  margin: 0;
+}
+
+#App_content {
+  margin-top: 0.5em;
+}

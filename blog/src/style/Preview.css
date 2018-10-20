@@ -1,0 +1,18 @@
+.Preview {
+  margin-top: 1em;
+  border-bottom: 1px solid black;
+}
+
+.Preview_line {
+  /* content: ''; */
+  width: 100%;
+  height: 0.05em;
+  background-color: black;
+  display: block;
+  margin-top: 1em;
+}
+
+.Preview>h1 {
+  margin: 0;
+  padding: 0;
+}
